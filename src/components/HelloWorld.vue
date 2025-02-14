@@ -10,13 +10,13 @@ export default defineComponent({
   <div class="grid grid-cols-2 bg-green-300 rounded-b-2xl">
     <div class="p-8 flex">
       <div class="z-50 flex-1 flex flex-col justify-center items-center">
-        <div class="text-white text-7xl font-bold mb-4 font-lora">
+        <div class="text-white text-6xl font-bold mb-4 font-lora">
           HAI,
         </div>
-        <div class="text-white text-8xl font-bold mb-4 font-lora">
+        <div class="text-white text-7xl font-bold mb-4 font-lora">
           SAYA
         </div>
-        <div class="text-white text-5xl font-bold font-lora">
+        <div class="text-white text-4xl font-bold font-lora">
           DHINI APRILIA BUDIARTI
         </div>
       </div>

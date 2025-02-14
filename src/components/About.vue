@@ -11,7 +11,7 @@ export default defineComponent({
         <div class="relative max-w-5xl p-20 bg-green-300 rounded-lg shadow-lg">
             <h2 class="text-4xl font-bold font-lora text-gray-800 underline mb-4">Tentangku</h2>
             <p class="text-white text-2xl font-semibold font-lora indent-20 mb-2">
-                Seorang guru SMK Teknik Geomatika, Teknik Geomatika 2006, biasa pegang SIG dan
+                Seorang Guru SMK Teknik Geomatika, Lulusan Teknik Geomatika 2006, biasa pegang SIG dan
                 pengindraan jauh memakai drone.✨
             </p>
             <p class="text-white text-2xl font-semibold font-lora indent-20 mb-2">
